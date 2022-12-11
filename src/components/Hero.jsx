@@ -15,7 +15,7 @@ const Hero = () => {
             <h1 className="font-bold text-4xl">Find Your Special Trip</h1>
             <h2 className="text-4xl py-4 italic">With Weekaway</h2>
             <p>
-              Lorem, ipsum dolor sit amet consectetur adipisicing elit. Numquam saepe inventore consequatur maiores blanditiis cumque sint, ullam possimus sit rem eum ad repellendus dolore? Rem illum dolor blanditiis porro ipsam!
+            let us help you find a special trip . in a long weekend !
             </p>
           </div>
         </div>
